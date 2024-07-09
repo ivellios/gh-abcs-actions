@@ -20,8 +20,8 @@ References:
 - Content:
 ```markdown
 ### Hands-on Labs & Activities:
-- [x] Hands-on Labs Setup
-- [x] Module 1: Introduction to GitHub Actions
+- [X] Hands-on Labs Setup
+- [X] Module 1: Introduction to GitHub Actions
 - [ ] Module 2: Syntax
 - [ ] Module 3: Environments and Secrets
 - [ ] Module 4: Workflow Templates
